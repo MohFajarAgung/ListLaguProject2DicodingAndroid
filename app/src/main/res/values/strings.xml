@@ -1,0 +1,256 @@
+<resources>
+    <string name="app_name">List Lagu</string>
+    <string name="songs_name">Nama Lagu</string>
+    <string name="overview">overview</string>
+    <string name="about">about</string>
+    <string name="nama_saya">Mohamad Fajar Agung</string>
+    <string name="email_saya">mohamadfajaragung26@gmail.com</string>
+    <string name="lirik">Lirik</string>
+    <string name="list">List</string>
+    <string name="grid">Grid</string>
+
+    <string-array name="data_name">
+        <item>Bertaut - Nadin Amizah</item>
+        <item>UPYSDP - Payung teduh</item>
+<!--        <item>Blue Bird - Ikimonogakari</item>-->
+<!--        <item>Blue Bird - Ikimonogakari</item>-->
+        <item>Blue Bird - Ikimonogakari</item>
+        <item>Wonderwall - Oasis</item>
+        <item>When I Was Your Man - Bruno</item>
+        <item>Come As You Are - Nirvana</item>
+        <item>Bink\'s Sake - One Piece</item>
+        <item>Diri - Tulus</item>
+        <item>Kangen - Dewa19</item>
+        <item>Sweet Child O\' Mine - Guns N\' Roses</item>
+    </string-array>
+
+    <string-array name="data_genre">
+        <item>Musik Pop Indie</item>
+        <item>Jazz Indie</item>
+        <item>Pop Rock</item>
+        <item>Alternatif/Indie</item>
+        <item>Musik Pop</item>
+        <item>Grunge</item>
+        <item>Lagu yang sering dinyanyikan Brook</item>
+        <item>Indonesian Pop</item>
+        <item>Indonesian Pop /Rock /Indonesian Jazz/ Indie</item>
+        <item>Rock</item>
+    </string-array>
+
+    <integer-array name="data_photo">
+        <item>@drawable/nadinamizah</item>
+        <item>@drawable/payungteduh</item>
+        <item>@drawable/bluebird</item>
+        <item>@drawable/wonderwall</item>
+        <item>@drawable/bronomars</item>
+        <item>@drawable/nirvana</item>
+        <item>@drawable/binksake</item>
+        <item>@drawable/tulus</item>
+        <item>@drawable/dewa19</item>
+        <item>@drawable/gns</item>
+    </integer-array>
+    <string-array name="data_lirics">
+        <item>\u0020Bun, hidup berjalan seperti bajingan\n
+             Seperti landak yang tak punya teman\n
+             Ia menggonggong bak suara hujan\n
+             Dan kau pangeranku, mengambil peran\n
+             Bun, kalau saat hancur ku disayang\n
+             Apalagi saat ku jadi juara\n
+             Saat tak tahu arah kau di sana\n
+             Menjadi gagah saat ku tak bisa\n
+             Sedikit kujelaskan tentangku dan kamu\n
+             Agar seisi dunia tahu\n
+             Keras kepalaku sama denganmu\n
+             Caraku marah, caraku tersenyum\n
+             Seperti detak jantung yang bertaut\n
+             Nyawaku nyala karena denganmu\n
+             Aku masih ada sampai di sini\n
+             Melihatmu kuat setengah mati\n
+             Seperti detak jantung yang bertaut\n
+             Nyawaku nyala karena denganmu\n
+             Bun, aku masih tak mengerti banyak hal\n
+             Semuanya berenang di kepala\n
+             Dan kau dan semua yang kau tahu tentangnya\n
+             Menjadi jawab saat ku bertanya\n
+             Sedikit kujelaskan tentangku dan kamu\n
+             Agar seisi dunia tahu\n
+             Keras kepalaku sama denganmu\n
+             Caraku marah, caraku tersenyum\n
+             Seperti detak jantung yang bertaut\n
+             Nyawaku nyala karena denganmu\n
+             Aku masih ada sampai di sini\n
+             Melihatmu kuat setengah mati\n
+             Seperti detak jantung yang bertaut\n
+             Nyawaku nyala karena denganmu\n
+             Semoga lama hidupmu di sini\n
+             Melihatku berjuang sampai akhir\n
+             Seperti detak jantung yang bertaut\n
+             Nyawaku nyala karena denganmu</item>
+        <item>\u0020Tak terasa gelap pun jatuh\n
+             Di ujung malam, menuju pagi yang dingin\n
+             Hanya ada sedikit bintang malam ini\n
+             Mungkin karena kau sedang cantik-cantiknya\n
+             Lalu mataku merasa malu\n
+             Semakin dalam, ia malu kali ini\n
+             Kadang juga ia takut\n
+             Tatkala harus berpapasan di tengah pelariannya\n
+             Di malam hari menuju pagi\n
+             Sedikit cemas, banyak rindunya\n
+             Uuuuu-uuuuu-uu\n
+             Lalu mataku merasa malu\n
+             Semakin dalam ia malu kali ini\n
+             Kadang juga ia takut\n
+             Tatkala harus berpapasan di tengah pelariannya\n
+             Di malam hari menuju pagi\n
+             Sedikit cemas, banyak rindunya\n
+             Uuuuu-uuuuu-uu\n
+             Di malam hari menuju pagi\n
+             Sedikit cemas, banyak rindunya\n
+             Uuuuu-uuuuu-uu</item>
+        <item>\u0020Kanashimi wa mada oboerarezu\n
+             Setsunasa wa ima tsukami hajimeta\n
+             Anata e to idaku kono kanjou mo\n
+             Ima kotoba ni kawatte iku\n
+             Michi naru sekai no yume kara mezamete\n
+             Kono hane wo hiroge tobitatsu\n
+             Habata itara modoranai to itte\n
+             Mezashita no wa shiroi shiroi ano kumo\n
+             Tsukinuketara mitsukaru to shitte\n
+             Furikiru hodo aoi aoi ano sora\n
+             Aoi aoi ano sora\n
+             Aoi aoi ano sora\n
+             Aisou sukita you na oto de\n
+             Sabireta furui mado wa kowareta\n
+             Miakita kago wa hora sutete iku\n
+             Furikaeru koto wa mou nai\n
+             Takanaru kodou ni kokyuu wo azukete\n
+             Kono mado wo kette tobitatsu\n
+             Kakedashitara te ni dekiru to itte\n
+             Izanau no wa tooi tooi ano koe\n
+             Mabushi sugita anata no te mo nigitte\n
+             Motomeru hodo aoi aoi ano sora\n
+             Ochite iku to wakatte ita\n
+             Soredemo hikari wo oi tsudzukete iku yo\n
+             Habata itara modoranai to itte\n
+             Sagashita no wa shiroi shiroi ano kumo\n
+             Tsukinuketara mitsukaru to shitte\n
+             Furikiru hodo aoi aoi ano sora\n
+             Aoi aoi ano sora\n
+             Aoi aoi ano sora</item>
+
+        <item>\u0020Today is gonna be the day that theyre gonna throw it back to you\n
+             And by now, you shouldve somehow realised what you gotta do\n
+             I dont believe that anybody feels the way I do about you now\n
+             And backbeat, the word is on the street that the fire in your heart is out\n
+             Im sure youve heard it all before, but you never really had a doubt\n
+             I dont believe that anybody feels the way I do about you now\n
+             And all the roads we have to walk are winding\n
+             And all the lights that lead us there are blinding\n
+             There are many things that I would like to say to you, but I dont know how\n
+          </item>
+       <item>\u0020Same bed but it feels just a little bit bigger now\n
+             Our song on the radio but it don\'t sound the same\n
+             When our friends talk about you, all it does is just tear me down\n
+             Cause my heart breaks a little when I hear your name\n
+             It all just sounds like ooh, ooh, ooh, hoo\n
+             Mm, too young, too dumb to realize\n
+             That I should have bought you flowers\n
+             And held your hand\n
+             Should have gave you all my hours\n
+             When I had the chance\n
+             Take you to every party \'cause all you wanted to do was dance\n
+             Now my baby\'s dancing\n
+             But she\'s dancing with another man</item>
+        <item>\u0020Come as you are, as you were\n
+             As I want you to be\n
+             As a friend, as a friend\n
+             As an old enemy\n
+             Take your time, hurry up\n
+             Choice is yours, don\'t be late\n
+             Take a rest as a friend\n
+             As an old\n
+             Memoria, memoria\n
+             Memoria, memoria\n
+             Come doused in mud, soaked in bleach\n
+             As I want you to be\n
+             As a trend, as a friend\n
+             As an old\n
+             Memoria, memoria\n
+             Memoria, memoria\n
+             And I swear that I don\'t have a gun\n
+             No, I don\'t have a gun\n
+             No, I don\'t have a gun\n
+             Memoria, memoria\n
+             Memoria no I don\'t have a gun\n
+             And I swear that I don\'t have a gun\n
+             No I don\'t have a gun\n
+             No I don\'t have a gun\n
+             No I don\'t have a gun\n
+             No I don\'t have a gun</item>
+        <item>\u0020yohohoho, yohohoho\n
+             yohohoho, yohohoho\n
+             yohohoho, yohohoho\n
+             yohohoho, yohohoho\n
+             binkusu no sake wo todoke ni yuku yo\n
+             umikaze kimakase namimakase\n
+             shio no mukou de yuuhi mo sawagu\n
+             sora nya wa wo kaku tori no uta\n
+             sayonara minato tsumugi no sato yo\n
+             don to icchou utao funade no uta\n
+             kinpa-ginpa mo shibuki ni kaete\n
+             oretachya yuku zo umi no kagiri\n
+             binkusu no sake wo todoke ni yuku yo\n
+             warera kaizoku umi watteku\n
+             nami wo makura ni negura wa fune yo\n
+             ho ni hata ni ketateru wa dokuro\n
+             arashi ga kita zo senri no sora ni\n
+             nami ga odoru yo doramu narase\n
+             okubyoukaze ni f-kakerya saigo\n
+             asu no asahi ga nai ja nashi\n
+</item>
+        <item>\u0020Hari ini\n
+             Kau berdamai dengan dirimu sendiri\n
+             Kaumaafkan\n
+             Semua salahmu ampuni dirimu,\n
+             Hari ini,\n
+             Ajak lagi dirimu bicara mesra,\n
+             Berjujurlah,\n
+             Pada dirimu, kau bisa percaya,\n
+             Maafkan semua yang lalu,\n
+             Ampuni hati kecilmu,\n
+             Luka, luka, hilanglah luka,\n
+             Biar tentram yang berkuasa,\n
+             Kau terlalu berharga untuk luka,\n
+             Katakan pada dirimu,\n
+             Semua baik-baik saja</item>
+
+        <item>Kuterima suratmu, telah kubaca dan aku mengerti\n
+             Betapa merindunya dirimu akan hadirnya diriku\n
+             Di dalam hari-harimu, bersama lagi\n
+             Kau tanyakan padaku, Kapan aku akan kembali lagi\n
+             Katamu kau tak kuasa melawan gejolak di dalam dada\n
+             Yang membara menahan rasa pertemuan kita nanti\n
+             Saat bersama dirimu\n
+             Semua kata rindumu semakin membuatku tak berdaya\n
+             Menahan rasa ingin jumpa\n
+             Percayalah padaku aku pun rindu kamu ku akan pulang\n
+             Melepas semua kerinduan yang terpendam</item>
+
+        <item>She\'s got a smile that it seems to me,\n
+             Reminds me of childhood memories,\n
+             Where everything was as fresh as the bright blue sky,\n
+             Now and then when I see her face,\n
+             She takes me away to that special place,\n
+             And if I stare too long, I\'d probably break down and cry,\n
+             Whoa, oh, oh,\n
+             Sweet child o\' mine,\n
+             Whoa, oh, oh, oh,\n
+             Sweet love of mine,\n
+             She\'s got eyes of the bluest skies,\n
+             As if they thought of rain,\n
+             I\'d hate to look into those eyes and see an ounce of pain,\n
+             Her hair reminds me of a warm safe place,\n
+             Where as a child I\'d hide,\n
+             And pray for the thunder and the rain to quietly pass me bye</item>
+    </string-array>
+</resources>
